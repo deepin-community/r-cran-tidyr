@@ -1,0 +1,22 @@
+Explanation for binary files inside source package according to
+http://lists.debian.org/debian-devel/2013/09/msg00332.html
+
+Files: data/population.rdata
+       data/who.rdata
+Documentation: man/who.Rd
+  World Health Organization TB data
+
+Files: data/smiths.rda
+Documentation: man/smiths.Rd
+  Some data about the Smith family
+
+Files: data/table1.rdata
+       data/table2.rdata
+       data/table3.rdata
+       data/table4a.rdata
+       data/table4b.rdata
+       data/table5.rdata
+Documentation: man/table1.Rd
+  Example tabular representations
+
+ -- Andreas Tille <tille@debian.org>  Thu, 23 Nov 2017 22:40:21 +0100

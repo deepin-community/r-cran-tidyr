@@ -1,0 +1,9 @@
+Notes on how this package can be tested.
+────────────────────────────────────────
+
+This package can be tested by running the provided test:
+
+cd tests
+LC_ALL=C R --no-save < testthat.R
+
+in order to confirm its integrity.
